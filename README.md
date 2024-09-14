@@ -19,13 +19,11 @@ Este repositório contém exercícios, exemplos e projetos desenvolvidos em Pyth
    git clone https://github.com/AdrianoSaadeh/PythonStudy.git
 
 2. Navegue até o diretório do projeto desejado:`
-  ```bash
-  cd PythonStudy/<diretorio-do-projeto>
+cd PythonStudy/<diretorio-do-projeto>
+
 
 3. Instale as dependências necessárias (se houver):
- ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
 4. Execute o script:
- ```bash
-  python <nome_do_script>.py
+python <nome_do_script>.py
