@@ -22,9 +22,10 @@ Este repositório contém exercícios, exemplos e projetos desenvolvidos em Pyth
    ```bash
    cd PythonStudy/<diretorio-do-projeto>
 
-
 4. Instale as dependências necessárias (se houver):
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-5. Execute o script:
-python <nome_do_script>.py
+6. Execute o script:
+   ```bash
+   python <nome_do_script>.py
